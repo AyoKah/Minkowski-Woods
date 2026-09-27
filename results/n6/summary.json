@@ -1,0 +1,21 @@
+{
+  "n": 6,
+  "root_boxes": 32,
+  "subtrees_with_certificate": 32,
+  "complete": true,
+  "nodes": 2559,
+  "max_depth": 22,
+  "pruned_by_bound": 1231,
+  "empty_after_reduction": 41,
+  "infeasible": 0,
+  "survivors": 44,
+  "survivor_files_count": 44,
+  "survivor_hull": [
+    0.955,
+    1.0486111111111112
+  ],
+  "audit_identity_holds": true,
+  "all_survivors_inside_C": true,
+  "worker_cpu_seconds": 5.407322355999999,
+  "verified": true
+}

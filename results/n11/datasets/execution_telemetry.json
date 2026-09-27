@@ -1,0 +1,36 @@
+{
+  "execution_meta": {
+    "wall_clock_seconds": 268714.7108798027,
+    "parallel_cpu_seconds": 961275.065361,
+    "peak_memory_mb": 11.520373
+  },
+  "tree_dynamics": {
+    "total_explored_nodes": 39991484,
+    "maximum_bisection_depth": 53
+  },
+  "geometry_metrics": {
+    "total_surviving_instances": 7385,
+    "empirical_minimum_coordinate": 0.9513888888888888,
+    "empirical_maximum_coordinate": 1.048828125,
+    "average_terminal_interval_width": 0.02624301667657467,
+    "axis_clustering_std_devs": [
+      0.0073100840223657305,
+      0.01268444838963597,
+      0.017888012556523405,
+      0.019978874889189643,
+      0.019513030119201538,
+      0.018903406162193576,
+      0.02002366020474721,
+      0.019901331552375896,
+      0.020155487544073217,
+      0.020745276738504053,
+      0.022947877412244366
+    ]
+  },
+  "pruning_telemetry": {
+    "aggregate_pruned": 20251178,
+    "infeasible_configurations": 0,
+    "bound_dominated": 19726560,
+    "propagation_failures": 524618
+  }
+}

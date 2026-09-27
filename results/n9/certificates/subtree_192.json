@@ -1,0 +1,1 @@
+{"box_idx": 192, "nodes_explored": 6088, "max_depth": 36, "pruned_infeasible": 0, "pruned_bound": 3017, "pruned_propagation": 31, "surviving_count": 12, "worker_cpu_seconds": 22.487909189999982}

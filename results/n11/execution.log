@@ -1,0 +1,131 @@
+[2026-05-13 18:26:13,413] INFO: Started continuous interval verification setup.
+[2026-05-13 18:26:40,417] INFO: Generated 1024 feasible root structures. Executing 1024 subtrees.
+[2026-05-13 18:26:52,123] INFO: Progress: 10/1024 subtrees evaluated. Elapsed Wall-Clock: 38.71s
+[2026-05-13 18:27:56,556] INFO: Progress: 20/1024 subtrees evaluated. Elapsed Wall-Clock: 103.14s
+[2026-05-13 18:31:35,898] INFO: Progress: 30/1024 subtrees evaluated. Elapsed Wall-Clock: 322.49s
+[2026-05-13 18:32:54,957] INFO: Progress: 40/1024 subtrees evaluated. Elapsed Wall-Clock: 401.54s
+[2026-05-13 18:35:41,561] INFO: Progress: 50/1024 subtrees evaluated. Elapsed Wall-Clock: 568.15s
+[2026-05-13 20:33:00,927] INFO: Progress: 60/1024 subtrees evaluated. Elapsed Wall-Clock: 7607.51s
+[2026-05-13 20:35:38,567] INFO: Progress: 70/1024 subtrees evaluated. Elapsed Wall-Clock: 7765.15s
+[2026-05-13 20:37:57,179] INFO: Progress: 80/1024 subtrees evaluated. Elapsed Wall-Clock: 7903.76s
+[2026-05-13 20:45:04,224] INFO: Progress: 90/1024 subtrees evaluated. Elapsed Wall-Clock: 8330.81s
+[2026-05-13 20:48:29,504] INFO: Progress: 100/1024 subtrees evaluated. Elapsed Wall-Clock: 8536.09s
+[2026-05-13 20:56:37,975] INFO: Progress: 110/1024 subtrees evaluated. Elapsed Wall-Clock: 9024.56s
+[2026-05-13 21:10:49,444] INFO: Progress: 120/1024 subtrees evaluated. Elapsed Wall-Clock: 9876.03s
+[2026-05-13 21:15:33,416] INFO: Progress: 130/1024 subtrees evaluated. Elapsed Wall-Clock: 10160.00s
+[2026-05-13 21:17:42,379] INFO: Progress: 140/1024 subtrees evaluated. Elapsed Wall-Clock: 10288.96s
+[2026-05-13 21:19:45,823] INFO: Progress: 150/1024 subtrees evaluated. Elapsed Wall-Clock: 10412.41s
+[2026-05-13 21:21:35,967] INFO: Progress: 160/1024 subtrees evaluated. Elapsed Wall-Clock: 10522.55s
+[2026-05-13 21:23:32,880] INFO: Progress: 170/1024 subtrees evaluated. Elapsed Wall-Clock: 10639.47s
+[2026-05-13 21:27:38,027] INFO: Progress: 180/1024 subtrees evaluated. Elapsed Wall-Clock: 10884.61s
+[2026-05-13 21:30:44,890] INFO: Progress: 190/1024 subtrees evaluated. Elapsed Wall-Clock: 11071.48s
+[2026-05-13 21:35:32,846] INFO: Progress: 200/1024 subtrees evaluated. Elapsed Wall-Clock: 11359.43s
+[2026-05-13 21:38:15,183] INFO: Progress: 210/1024 subtrees evaluated. Elapsed Wall-Clock: 11521.77s
+[2026-05-13 21:42:48,249] INFO: Progress: 220/1024 subtrees evaluated. Elapsed Wall-Clock: 11794.84s
+[2026-05-13 21:47:43,445] INFO: Progress: 230/1024 subtrees evaluated. Elapsed Wall-Clock: 12090.03s
+[2026-05-13 21:55:05,342] INFO: Progress: 240/1024 subtrees evaluated. Elapsed Wall-Clock: 12531.93s
+[2026-05-13 22:06:08,858] INFO: Progress: 250/1024 subtrees evaluated. Elapsed Wall-Clock: 13195.44s
+[2026-05-13 22:07:51,960] INFO: Progress: 260/1024 subtrees evaluated. Elapsed Wall-Clock: 13298.55s
+[2026-05-13 22:09:18,469] INFO: Progress: 270/1024 subtrees evaluated. Elapsed Wall-Clock: 13385.06s
+[2026-05-13 22:11:37,253] INFO: Progress: 280/1024 subtrees evaluated. Elapsed Wall-Clock: 13523.84s
+[2026-05-13 22:13:20,671] INFO: Progress: 290/1024 subtrees evaluated. Elapsed Wall-Clock: 13627.26s
+[2026-05-13 22:15:08,205] INFO: Progress: 300/1024 subtrees evaluated. Elapsed Wall-Clock: 13734.79s
+[2026-05-13 22:18:30,462] INFO: Progress: 310/1024 subtrees evaluated. Elapsed Wall-Clock: 13937.05s
+[2026-05-13 22:20:40,185] INFO: Progress: 320/1024 subtrees evaluated. Elapsed Wall-Clock: 14066.77s
+[2026-05-13 22:21:09,172] INFO: Progress: 330/1024 subtrees evaluated. Elapsed Wall-Clock: 14095.76s
+[2026-05-13 22:21:32,524] INFO: Progress: 340/1024 subtrees evaluated. Elapsed Wall-Clock: 14119.11s
+[2026-05-13 22:22:25,076] INFO: Progress: 350/1024 subtrees evaluated. Elapsed Wall-Clock: 14171.66s
+[2026-05-13 22:23:10,249] INFO: Progress: 360/1024 subtrees evaluated. Elapsed Wall-Clock: 14216.84s
+[2026-05-13 22:24:14,139] INFO: Progress: 370/1024 subtrees evaluated. Elapsed Wall-Clock: 14280.73s
+[2026-05-13 22:25:37,614] INFO: Progress: 380/1024 subtrees evaluated. Elapsed Wall-Clock: 14364.20s
+[2026-05-13 22:26:16,174] INFO: Progress: 390/1024 subtrees evaluated. Elapsed Wall-Clock: 14402.76s
+[2026-05-13 22:28:06,176] INFO: Progress: 400/1024 subtrees evaluated. Elapsed Wall-Clock: 14512.76s
+[2026-05-13 22:30:37,616] INFO: Progress: 410/1024 subtrees evaluated. Elapsed Wall-Clock: 14664.20s
+[2026-05-13 22:32:06,419] INFO: Progress: 420/1024 subtrees evaluated. Elapsed Wall-Clock: 14753.01s
+[2026-05-13 22:33:46,344] INFO: Progress: 430/1024 subtrees evaluated. Elapsed Wall-Clock: 14852.93s
+[2026-05-13 22:35:20,944] INFO: Progress: 440/1024 subtrees evaluated. Elapsed Wall-Clock: 14947.53s
+[2026-05-13 22:36:49,689] INFO: Progress: 450/1024 subtrees evaluated. Elapsed Wall-Clock: 15036.28s
+[2026-05-13 22:39:57,067] INFO: Progress: 460/1024 subtrees evaluated. Elapsed Wall-Clock: 15223.65s
+[2026-05-13 22:42:28,936] INFO: Progress: 470/1024 subtrees evaluated. Elapsed Wall-Clock: 15375.52s
+[2026-05-13 22:44:55,350] INFO: Progress: 480/1024 subtrees evaluated. Elapsed Wall-Clock: 15521.94s
+[2026-05-13 22:48:23,878] INFO: Progress: 490/1024 subtrees evaluated. Elapsed Wall-Clock: 15730.46s
+[2026-05-13 22:52:20,131] INFO: Progress: 500/1024 subtrees evaluated. Elapsed Wall-Clock: 15966.72s
+[2026-05-13 22:55:45,837] INFO: Progress: 510/1024 subtrees evaluated. Elapsed Wall-Clock: 16172.42s
+[2026-05-13 23:07:06,460] INFO: Progress: 520/1024 subtrees evaluated. Elapsed Wall-Clock: 16853.05s
+[2026-05-13 23:28:09,216] INFO: Progress: 530/1024 subtrees evaluated. Elapsed Wall-Clock: 18115.80s
+[2026-05-14 00:32:34,880] INFO: Progress: 540/1024 subtrees evaluated. Elapsed Wall-Clock: 21981.47s
+[2026-05-14 00:46:45,125] INFO: Progress: 550/1024 subtrees evaluated. Elapsed Wall-Clock: 22831.71s
+[2026-05-14 01:30:14,858] INFO: Progress: 560/1024 subtrees evaluated. Elapsed Wall-Clock: 25441.44s
+[2026-05-14 02:35:31,442] INFO: Progress: 570/1024 subtrees evaluated. Elapsed Wall-Clock: 29358.03s
+[2026-05-14 03:07:38,890] INFO: Progress: 580/1024 subtrees evaluated. Elapsed Wall-Clock: 31285.48s
+[2026-05-14 03:20:51,549] INFO: Progress: 590/1024 subtrees evaluated. Elapsed Wall-Clock: 32078.14s
+[2026-05-14 03:41:40,058] INFO: Progress: 600/1024 subtrees evaluated. Elapsed Wall-Clock: 33326.65s
+[2026-05-14 04:03:43,662] INFO: Progress: 610/1024 subtrees evaluated. Elapsed Wall-Clock: 34650.25s
+[2026-05-14 04:33:24,784] INFO: Progress: 620/1024 subtrees evaluated. Elapsed Wall-Clock: 36431.37s
+[2026-05-14 05:14:49,646] INFO: Progress: 630/1024 subtrees evaluated. Elapsed Wall-Clock: 38916.23s
+[2026-05-14 05:50:04,950] INFO: Progress: 640/1024 subtrees evaluated. Elapsed Wall-Clock: 41031.54s
+[2026-05-14 06:21:25,048] INFO: Progress: 650/1024 subtrees evaluated. Elapsed Wall-Clock: 42911.64s
+[2026-05-14 06:33:27,601] INFO: Progress: 660/1024 subtrees evaluated. Elapsed Wall-Clock: 43634.19s
+[2026-05-14 06:57:49,850] INFO: Progress: 670/1024 subtrees evaluated. Elapsed Wall-Clock: 45096.44s
+[2026-05-14 07:04:15,370] INFO: Progress: 680/1024 subtrees evaluated. Elapsed Wall-Clock: 45481.96s
+[2026-05-14 07:10:51,128] INFO: Progress: 690/1024 subtrees evaluated. Elapsed Wall-Clock: 45877.71s
+[2026-05-14 07:16:55,898] INFO: Progress: 700/1024 subtrees evaluated. Elapsed Wall-Clock: 46242.48s
+[2026-05-14 07:31:15,493] INFO: Progress: 710/1024 subtrees evaluated. Elapsed Wall-Clock: 47102.08s
+[2026-05-14 07:47:05,795] INFO: Progress: 720/1024 subtrees evaluated. Elapsed Wall-Clock: 48052.38s
+[2026-05-14 07:57:43,418] INFO: Progress: 730/1024 subtrees evaluated. Elapsed Wall-Clock: 48690.00s
+[2026-05-14 08:20:07,363] INFO: Progress: 740/1024 subtrees evaluated. Elapsed Wall-Clock: 50033.95s
+[2026-05-14 08:43:58,282] INFO: Progress: 750/1024 subtrees evaluated. Elapsed Wall-Clock: 51464.87s
+[2026-05-14 09:00:20,419] INFO: Progress: 760/1024 subtrees evaluated. Elapsed Wall-Clock: 52447.01s
+[2026-05-14 10:01:37,715] INFO: Progress: 770/1024 subtrees evaluated. Elapsed Wall-Clock: 56124.30s
+[2026-05-14 13:07:31,852] INFO: Progress: 780/1024 subtrees evaluated. Elapsed Wall-Clock: 67278.44s
+[2026-05-14 14:46:49,053] INFO: Progress: 790/1024 subtrees evaluated. Elapsed Wall-Clock: 73235.64s
+[2026-05-14 16:09:40,929] INFO: Progress: 800/1024 subtrees evaluated. Elapsed Wall-Clock: 78207.52s
+[2026-05-14 17:03:47,073] INFO: Progress: 810/1024 subtrees evaluated. Elapsed Wall-Clock: 81453.66s
+[2026-05-14 18:12:27,805] INFO: Progress: 820/1024 subtrees evaluated. Elapsed Wall-Clock: 85574.39s
+[2026-05-14 19:36:29,983] INFO: Progress: 830/1024 subtrees evaluated. Elapsed Wall-Clock: 90616.57s
+[2026-05-14 20:12:26,129] INFO: Progress: 840/1024 subtrees evaluated. Elapsed Wall-Clock: 92772.72s
+[2026-05-14 20:28:01,727] INFO: Progress: 850/1024 subtrees evaluated. Elapsed Wall-Clock: 93708.31s
+[2026-05-14 20:45:25,784] INFO: Progress: 860/1024 subtrees evaluated. Elapsed Wall-Clock: 94752.37s
+[2026-05-14 21:19:01,268] INFO: Progress: 870/1024 subtrees evaluated. Elapsed Wall-Clock: 96767.86s
+[2026-05-14 21:49:13,661] INFO: Progress: 880/1024 subtrees evaluated. Elapsed Wall-Clock: 98580.25s
+[2026-05-14 22:09:21,421] INFO: Progress: 890/1024 subtrees evaluated. Elapsed Wall-Clock: 99788.01s
+[2026-05-15 01:42:59,583] INFO: Progress: 900/1024 subtrees evaluated. Elapsed Wall-Clock: 112606.17s
+[2026-05-15 09:06:09,959] INFO: Progress: 910/1024 subtrees evaluated. Elapsed Wall-Clock: 139196.55s
+[2026-05-15 11:00:22,528] INFO: Progress: 920/1024 subtrees evaluated. Elapsed Wall-Clock: 146049.11s
+[2026-05-15 12:05:13,019] INFO: Progress: 930/1024 subtrees evaluated. Elapsed Wall-Clock: 149939.61s
+[2026-05-15 12:32:49,920] INFO: Progress: 940/1024 subtrees evaluated. Elapsed Wall-Clock: 151596.51s
+[2026-05-15 13:18:07,624] INFO: Progress: 950/1024 subtrees evaluated. Elapsed Wall-Clock: 154314.21s
+[2026-05-15 17:58:47,877] INFO: Progress: 960/1024 subtrees evaluated. Elapsed Wall-Clock: 171154.46s
+[2026-05-16 00:31:04,347] INFO: Progress: 970/1024 subtrees evaluated. Elapsed Wall-Clock: 194690.93s
+[2026-05-16 01:48:34,415] INFO: Progress: 980/1024 subtrees evaluated. Elapsed Wall-Clock: 199341.00s
+[2026-05-16 04:50:47,409] INFO: Progress: 990/1024 subtrees evaluated. Elapsed Wall-Clock: 210274.00s
+[2026-05-16 07:17:54,133] INFO: Progress: 1000/1024 subtrees evaluated. Elapsed Wall-Clock: 219100.72s
+[2026-05-16 11:32:36,412] INFO: Progress: 1010/1024 subtrees evaluated. Elapsed Wall-Clock: 234383.00s
+[2026-05-16 15:52:26,195] INFO: Progress: 1020/1024 subtrees evaluated. Elapsed Wall-Clock: 249972.78s
+[2026-05-16 21:04:48,219] INFO: 
+=================================================================
+GLOBAL SEARCH TELEMETRY & PAPER METRICS SUMMARY
+=================================================================
+1. Search Tree Dynamics
+   - Total Explored Sub-box Nodes : 39,991,484
+   - Maximum Bisection Depth      : 53
+
+2. Geometry of Surviving Boxes
+   - Verified Surviving Count     : 7,385
+   - Empirical Tight Bounding Box : [0.951389, 1.048828]
+   - Avg Terminal Coordinate Width: 2.624302e-02
+   - Clustering Distribution      : Exhibits specific dimensional axis elongation (Max parameter standard deviation: 0.02295).
+
+3. Categorized Pruning Breakdown
+   - Total Eliminated Boxes       : 20,251,178
+     * Infeasible / Volume Cuts   : 0
+     * Continuous DP Bound Pruning: 19,726,560
+     * Local Constraint Fails     : 524,618
+
+4. Computational Resource Efficiency
+   - Elapsed Wall-Clock Time      : 268714.71 seconds
+   - Aggregate Parallel CPU Time  : 961275.07 seconds
+   - Parallel Scaling Ratio       : 3.58x core factor
+   - Verified Peak Memory Footprint: 11.52 MB
+=================================================================
+
